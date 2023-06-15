@@ -1,0 +1,36 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    display: flex;
+}
+
+.cointer {
+    background-color: black;
+    color: aliceblue;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+
+.box {
+    height: 50%;
+    background-color: aliceblue;
+    color: black;
+    width: 40%;
+    padding: 20px;
+    margin: 45px;
+    border-radius: 20px 0px;
+    box-shadow: rgb(250, 117, 117) -8px 8px 5px;
+}
+
+.box h2 {
+    font-family: cursive;
+    margin: 50px;
+}
+
+.input {
+    margin: 5% 20%;
+}
